@@ -1,8 +1,14 @@
 # Chat-With-Your-Web-Content
 
+![image](https://github.com/user-attachments/assets/4940cb6e-66a8-4df8-a622-81ff09ed7de8)
+
+
 ## Application Name: "WEB-PILOT"
 
 "WEB-PILOT" is a sophisticated RAG (Retrieval Augmented Generation) application designed to interact seamlessly with website content, including vlogs and other materials. This application allows users to paste the URL of any website they want to engage with, enabling question-answering, summarization, and more, all with ease. 
+
+![image](https://miro.medium.com/v2/resize:fit:2000/1*-0ROJw3TW0-06m7QckWlPQ.png)
+
 
 ### Key Components
 
@@ -37,10 +43,16 @@ In this notebook, we leverage the Mistral-7b-instruct model alongside the Langch
 #### Streamlit
 - **Purpose**: Front end.
 - **Benefits**: Offers an intuitive and visually appealing interface for users to interact with the application.
+  
+![image](https://github.com/user-attachments/assets/b6abcc74-5614-4296-ad7f-f83ed9cafa8e)
+
 
 ## Retrieval Augmented Generation (RAG)
 
 ### What is RAG?
+
+![image](https://media.licdn.com/dms/image/D5612AQGnuid-nR0Oyg/article-cover_image-shrink_600_2000/0/1700412265265?e=1727308800&v=beta&t=9dpO2cDBu4xlPcYdzSor2B5qIo-pAHdOa3EFexRHyfg)
+
 Retrieval Augmented Generation is a technique that enhances the capabilities of LLMs by providing contextual training, as opposed to the traditional method of fine-tuning. 
 
 ### Advantages of RAG
