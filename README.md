@@ -13,7 +13,7 @@
 ### Key Components
 
 - **Mistral-7b-instruct v0.3 LLM**: Utilized for text generation.
-- **Langchain Library**: Used for prompt engineering and developing the RAG application.
+- **Langchain Library**: Used for prompt engineering and RAG application development.
 - **Chroma DB**: Employed as a vector database for storing data.
 - **Transformer Embedding**: Ensures quick document search within the database.
 - **Streamlit**: Provides a user-friendly front end to display responses effectively.
