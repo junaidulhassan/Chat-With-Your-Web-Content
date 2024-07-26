@@ -47,7 +47,7 @@ In this notebook, we leverage the Mistral-7b-instruct model alongside the Langch
 ![image](https://github.com/user-attachments/assets/b6abcc74-5614-4296-ad7f-f83ed9cafa8e)
 
 
-## Retrieval Augmented Generation (RAG)
+## Retrieval Augmented Generation (RAG):
 
 ### What is RAG?
 
